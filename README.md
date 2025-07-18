@@ -1,1 +1,1 @@
-# college-of-punjab
+Digital Calculator
